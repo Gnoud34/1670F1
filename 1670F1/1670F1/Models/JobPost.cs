@@ -14,6 +14,8 @@ namespace _1670F1.Models
         [Range(0, 99999999, ErrorMessage = "Salary must be a positive number and cannot exceed 8 digits.")]
         public int Salary { get; set; }
         public int CategoryId { get; set; }
+        public int EmployerId { get; set; }
+        public Employer Employer { get; set; }
         public Category Category { get; set; }
     }
 }
