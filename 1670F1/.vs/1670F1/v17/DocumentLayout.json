@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,8 +77,94 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "1670F1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "1670F1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-02T18:31:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "1670F1\\Models\\JobPost.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobPost.cs",
+              "RelativeToolTip": "1670F1\\Models\\JobPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:03:54.619Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "1670F1\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "1670F1\\Models\\JobSeeker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:33:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "1670F1\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Application.cs",
+              "RelativeToolTip": "1670F1\\Models\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:52:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "1670F1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Category.cs",
+              "RelativeToolTip": "1670F1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:42:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "1670F1\\Models\\Employer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Employer.cs",
+              "RelativeToolTip": "1670F1\\Models\\Employer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:43:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\User.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\User.cs",
@@ -75,33 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobSeeker.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobSeeker.cs",
-              "RelativeDocumentMoniker": "1670F1\\Models\\JobSeeker.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobSeeker.cs",
-              "RelativeToolTip": "1670F1\\Models\\JobSeeker.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:33:25.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Employer.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Employer.cs",
-              "RelativeDocumentMoniker": "1670F1\\Models\\Employer.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Employer.cs",
-              "RelativeToolTip": "1670F1\\Models\\Employer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:43:02.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
