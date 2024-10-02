@@ -33,5 +33,8 @@ namespace _1670F1.Models
         [Url(ErrorMessage = "Invalid URL format.")]
         [RegularExpression(@"(https?:\/\/.*\.(?:png|jpg|jpeg))", ErrorMessage = "URL must point to a valid image (jpg, jpeg, png).")]
         public string Image { get; set; }
+
+        public int UserId { get; set; }
+        public User User { get; set; }
     }
 }
