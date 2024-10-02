@@ -11,9 +11,11 @@ namespace _1670F1.Models
         [RegularExpression(@"^[a-zA-Z\s]+$", ErrorMessage = "Full name must contain only letters and spaces.")]
         public string FullName { get; set; }
         public DateTime DateTime { get; set; }
+
         [Required(ErrorMessage = "Gender is required.")]
         [RegularExpression("^(Male|Female|Other)$", ErrorMessage = "Gender must be either 'Male', 'Female', or 'Other'.")]
         public bool Gender { get; set; }
+
         [Required(ErrorMessage = "Age is required.")]
         [Range(18, 100, ErrorMessage = "Age must be between 16 and 100.")]
         public int Age { get; set; }
