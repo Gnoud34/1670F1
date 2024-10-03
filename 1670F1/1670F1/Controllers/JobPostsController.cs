@@ -49,8 +49,8 @@ namespace _1670F1.Controllers
         // GET: JobPosts/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id");
-            ViewData["EmployerId"] = new SelectList(_context.Set<Employer>(), "Id", "Email");
+            ViewData["CategoryName"] = new SelectList(_context.Category, "Id", "CategoryName");
+            ViewData["FullName"] = new SelectList(_context.Set<Employer>(), "Id", "FullName");
             return View();
         }
 
@@ -67,8 +67,8 @@ namespace _1670F1.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id", jobPost.CategoryId);
-            ViewData["EmployerId"] = new SelectList(_context.Set<Employer>(), "Id", "Email", jobPost.EmployerId);
+            ViewData["CategoryName"] = new SelectList(_context.Category, "Id", "CategoryName", jobPost.CategoryId);
+            ViewData["FullName"] = new SelectList(_context.Set<Employer>(), "Id", "FullName", jobPost.EmployerId);
             return View(jobPost);
         }
 
@@ -85,8 +85,8 @@ namespace _1670F1.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id", jobPost.CategoryId);
-            ViewData["EmployerId"] = new SelectList(_context.Set<Employer>(), "Id", "Email", jobPost.EmployerId);
+            ViewData["CategoryName"] = new SelectList(_context.Category, "Id", "CategoryName", jobPost.CategoryId);
+            ViewData["FullName"] = new SelectList(_context.Set<Employer>(), "Id", "FullName", jobPost.EmployerId);
             return View(jobPost);
         }
 
@@ -122,8 +122,8 @@ namespace _1670F1.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Category, "Id", "Id", jobPost.CategoryId);
-            ViewData["EmployerId"] = new SelectList(_context.Set<Employer>(), "Id", "Email", jobPost.EmployerId);
+            ViewData["CategoryName"] = new SelectList(_context.Category, "Id", "CategoryName", jobPost.CategoryId);
+            ViewData["FullName"] = new SelectList(_context.Set<Employer>(), "Id", "FullName", jobPost.EmployerId);
             return View(jobPost);
         }
 

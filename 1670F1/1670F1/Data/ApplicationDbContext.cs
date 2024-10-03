@@ -24,6 +24,10 @@ namespace _1670F1.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Category>()
+                .HasMany(c => c.JobPosts)
+                .WithOne(p => p.Category)
+                .HasForeignKey(p => p.CategoryId);
 
             // Modify delete behavior for Application -> JobSeeker relationship
             modelBuilder.Entity<Application>()
