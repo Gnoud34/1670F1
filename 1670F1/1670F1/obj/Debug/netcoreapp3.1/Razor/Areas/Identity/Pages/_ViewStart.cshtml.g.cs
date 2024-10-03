@@ -12,9 +12,28 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-    #line default
-    #line hidden
+#nullable restore
+#line 1 "C:\Users\acer\source\repos\Gnoud34\1670F1\1670F1\1670F1\Areas\Identity\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity
+
+#nullable disable
+    ;
+#nullable restore
+#line 2 "C:\Users\acer\source\repos\Gnoud34\1670F1\1670F1\1670F1\Areas\Identity\Pages\_ViewImports.cshtml"
+using _1670F1.Areas.Identity
+
+#nullable disable
+    ;
+#nullable restore
+#line 3 "C:\Users\acer\source\repos\Gnoud34\1670F1\1670F1\1670F1\Areas\Identity\Pages\_ViewImports.cshtml"
+using _1670F1.Areas.Identity.Pages
+
+#line default
+#line hidden
+#nullable disable
+    ;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ff2f0c08e4c4522597448f1c553985a289ff77266246dda050b688aa47c4d670", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"03878c331d1cd0e275be57f9831b09225f5e649a504ad8ea093d3b4968119b88", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\data\\migrations\\20241003082942_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\data\\migrations\\20241003082942_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\controllers\\jobseekerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\controllers\\jobseekerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\controllers\\jobpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\controllers\\jobpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|solutionrelative:1670f1\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7020B2B-238D-47FE-9C64-214BD4E043A1}|1670F1\\1670F1.csproj|c:\\users\\acer\\source\\repos\\gnoud34\\1670f1\\1670f1\\1670f1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,10 +114,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -85,8 +125,155 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241003082942_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\20241003082942_FirstMigration.cs",
+              "RelativeDocumentMoniker": "1670F1\\Data\\Migrations\\20241003082942_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\20241003082942_FirstMigration.cs",
+              "RelativeToolTip": "1670F1\\Data\\Migrations\\20241003082942_FirstMigration.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:29:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:26:22.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "1670F1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "1670F1\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAANkBAAAAAAAAAAAYwA0CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:22:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "1670F1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:21:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "1670F1\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "1670F1\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:56:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\appsettings.json",
+              "RelativeDocumentMoniker": "1670F1\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\appsettings.json",
+              "RelativeToolTip": "1670F1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T07:52:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "1670F1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "1670F1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:49:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobSeekersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\JobSeekersController.cs",
+              "RelativeDocumentMoniker": "1670F1\\Controllers\\JobSeekersController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\JobSeekersController.cs",
+              "RelativeToolTip": "1670F1\\Controllers\\JobSeekersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:51:58.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\EmployersController.cs",
+              "RelativeDocumentMoniker": "1670F1\\Controllers\\EmployersController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\EmployersController.cs",
+              "RelativeToolTip": "1670F1\\Controllers\\EmployersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:51:29.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\JobPostsController.cs",
+              "RelativeDocumentMoniker": "1670F1\\Controllers\\JobPostsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\JobPostsController.cs",
+              "RelativeToolTip": "1670F1\\Controllers\\JobPostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:51:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "1670F1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "1670F1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:50:37.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "1670F1\\ScaffoldingReadMe.txt",
@@ -99,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "JobPost.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobPost.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\JobPost.cs",
@@ -112,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "JobSeeker.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\JobSeeker.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\JobSeeker.cs",
@@ -125,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Application.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\Application.cs",
@@ -138,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\Category.cs",
@@ -151,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Employer.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\Employer.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\Employer.cs",
@@ -164,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\1670F1\\Models\\User.cs",
               "RelativeDocumentMoniker": "1670F1\\Models\\User.cs",
@@ -177,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Gnoud34\\1670F1\\1670F1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -185,8 +372,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-02T17:01:03.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T17:01:03.627Z"
             }
           ]
         }
