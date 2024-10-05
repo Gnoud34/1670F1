@@ -1,13 +1,9 @@
 ﻿using _1670F1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace _1670F1.Controllers
+namespace Lesson4_Relationship__2._10_.Controllers
 {
     public class HomeController : Controller
     {

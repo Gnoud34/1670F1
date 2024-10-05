@@ -32,8 +32,6 @@ namespace _1670F1.Models
         public string Description { get; set; }
 
         public int JobPostId { get; set; }
-        public int JobSeekerId { get; set; }
         public JobPost JobPost { get; set; }
-        public JobSeeker JobSeeker { get; set; }
     }
 }
