@@ -13,6 +13,14 @@
     <Compile Remove="Data\Migrations\20241003075705_AddApplication.Designer.cs" />
     <Compile Remove="Data\Migrations\20241003082634_FirstMigration.cs" />
     <Compile Remove="Data\Migrations\20241003082634_FirstMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20241003082942_FirstMigration.cs" />
+    <Compile Remove="Data\Migrations\20241003082942_FirstMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20241004095218_SecondMigration.cs" />
+    <Compile Remove="Data\Migrations\20241004095218_SecondMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20241004101050_ThirdMigration.cs" />
+    <Compile Remove="Data\Migrations\20241004101050_ThirdMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20241004134822_Gender.cs" />
+    <Compile Remove="Data\Migrations\20241004134822_Gender.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
